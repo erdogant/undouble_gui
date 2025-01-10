@@ -9,13 +9,9 @@
 
 * ``undouble_gui`` is a Python package for creating a small front-end in Tkinter. It is part of the ``undouble`` library and not designed to work stand-alone.
 
-   
-### Maintainers
-* Erdogan Taskesen, github: [erdogant](https://github.com/erdogant)
 
-### Contribute
+   
+#### Contribute
 * All kinds of contributions are welcome!
 * If you wish to buy me a <a href="https://www.buymeacoffee.com/erdogant">Coffee</a> for this work, it is very appreciated :)
 
-### Licence
-See [LICENSE](LICENSE) for details.
