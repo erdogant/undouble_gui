@@ -7,7 +7,7 @@
 [![Project Status](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
 
 
-* ``undouble_gui`` is Python package that is part of the ``undouble`` library. It is not developed to work stand-alone.
+* ``undouble_gui`` is a Python package for creating a small front-end in Tkinter. It is part of the ``undouble`` library and not designed to work stand-alone.
 
    
 ### Maintainers
